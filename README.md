@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Farhad Ali
 
-<!--
-**Farhad-ALi-Farhat/Farhad-ALi-Farhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+🤖 Focused on Machine Learning, Deep Learning, and Computer Vision  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🧠 DeepFake Detection
+- Deep learning model for detecting manipulated media
+- Integrated Explainable AI (LIME) for model transparency
+
+### 🔍 XAI API
+- FastAPI-based system for explaining model predictions
+- Uses LIME for interpretability of deep learning outputs
+
+---
+
+## 🛠 Tech Stack
+- Python, NumPy, Pandas
+- Scikit-learn, TensorFlow
+- FastAPI, Django
+- OpenCV (Computer Vision)
+
+---
+
+## 📈 Currently Working On
+- Real-time object detection (YOLO)
+- Advanced deep learning architectures
+- Building deployable ML systems
+
+---
+
+## 🎯 Career Focus
+Seeking opportunities in:
+- Machine Learning
+- Computer Vision
+- AI Engineering
